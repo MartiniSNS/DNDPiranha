@@ -1,0 +1,2 @@
+[[Thalia Mireweave]]
+Thalia admits more: she altered a robe once (or knows someone who did), describes the patron’s manner, and will quietly introduce you to a contact ([[Fern]], the cellarhand at [[The Gilded Ledger]])

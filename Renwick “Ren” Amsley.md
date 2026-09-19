@@ -1,0 +1,18 @@
+father to [[Elin Amsley]] and husband to [[Mira Amsley]]
+- Role: Father; former town watchman turned coachman/stablehand.
+- Age/Look: Late 40s. Stooped shoulders from years of hauling, cropped dark hair streaked with gray, sun-leathered skin. Wears a stained leather coat and a battered cloak.
+- Personality: Practical, blunt, slow to anger but quick to protect. He has a soldier’s reflexes and old loyalty to the watch; he distrusts cult talk but isn’t brave about throwing his life away for it.
+- Voice/snippets:
+  - “You found our little Elin? Good. Where did you see ‘er? Don’t let any magics get near ‘er.”
+  - “If someone’s been watchin’ the lanes, I want names. I’ll gut a dog if it helps my girl sleep.”
+- What he knows / can provide:
+  - He remembers seeing a pale courier slipping through the street two nights ago—left thumb scar, moved like he belonged in shadows (Perception/Insight DC 12 to corroborate).
+  - He handles coaches at the river side and can point to recent arrivals and odd hires (Insight DC 13 to judge truthfulness).
+  - He recognizes the wax type on the note as a common merchant’s sealing wax—cheap but pressed with a private die (Investigation DC 12 to examine).
+- Interrogation / skill checks:
+  - Calm him and get straight answers: Persuasion DC 12 (or offer 1–2 gp for urgency).
+  - Detect if he’s hiding something (e.g., he was paid to look away): Insight DC 13.
+  - If intimidated too hard: he’ll call on old watch contacts (risk: town watch arrives).
+- Hooks & complications:
+  - Ren once turned down a bribe from a cloaked courier to “look aside” on market night—he saved the receipt stub in his coat as proof. If the PCs earn his trust, he produces the stub (small clue).
+  - If he thinks PCs are a threat, he’ll try to shield the child and call the guard—creating social friction.

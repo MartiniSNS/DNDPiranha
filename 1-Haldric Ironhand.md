@@ -1,0 +1,1 @@
+human blacksmith, late 40s. Broad‑shouldered ex‑bridge guard with a scarred forearm and a soot‑streaked apron. Gruff voice, quick laugh for friends, blunt and practical. Owes Maela a favour and trusts her word; takes pride in honest work and in keeping his forge a dependable, discreet place.
