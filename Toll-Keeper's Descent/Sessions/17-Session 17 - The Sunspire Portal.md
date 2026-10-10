@@ -2,61 +2,48 @@
 
 ## Overview
 
-The party uses the Sunspire route to enter a hidden planar stair beneath the razed temple. This is not just a dungeon crawl—it is an entry point into the hidden network of the Ledger.
+The party follows the route to the Sunspire Portal, a secret, ancient place of passage beneath the ruined citadel. Here, the Ledger's system begins to show itself not merely as a cult order but as a planner of routes and realms.
 
-## Setup
+## Related Files
 
-At the foot of the old citadel lies a sealed stairwell. Built into the stone is a circular portal ring that only responds when held beneath the Palantier and the Bulwark together.
+- [Act II Overview](../00-Overview.md)
+- [Session 16: The Ledger's Herald](./16-Session%2016%20-%20The%20Ledger's%20Herald.md)
+- [Session 18: The Crossroads of Twilight](./18-Session%2018%20-%20The%20Crossroads%20of%20Twilight.md)
+- [Clue: Map of the Planar Network](../Clues%20and%20Handouts/05-Map%20of%20the%20Planar%20Network.md)
+- [Stat Block: Corrupted Herald](../StatBlocks/06-Corrupted%20Herald.md)
+
+## Objective
+
+Stabilize the portal and recover the route map that reveals the wider structure of the Ledger's network.
 
 ## Encounter 1: The Threshold Trials
 
 ### Threats
-
 - 2 Corrupted Seal Keepers
-- 1 Voice of the Archive (a spectral herald)
+- 1 spectral archive guardian
 
 ### Mechanics
+- Each PC must overcome a DC 15 Arcana check to stabilize the ring with the Palantier and Bulwark
+- A failed check triggers psychic force and lightless panic
 
-- Each PC must succeed on a DC 15 Arcana check to stabilize the ring.
-- On a failed save, the ring flashes white and bolts of psychic force hit the nearest creature.
+## Encounter 2: Archive of Tolls
 
-### Objective
+The portal leads to a hall of floating ledgers and suspended routes.
 
-Stabilize the portal and step beyond the veil.
-
-## Encounter 2: The Archive of Tolls
-
-Inside the portal is a floating hall of open ledgers and suspended pathways. Every page is a secret. Every chain is a debt.
-
-### Threats
-
-- 3 spectral scribes
-- 1 shadow anchor
-
-### Clues
-
-- A ledger page noting the locations of the remaining keys
-- The phrase: *“The portal to the First Vault opens only when three keys are accepted by the Ledger.”*
-
-### Reward
-
-The party can read a map of future route points. This becomes the framework for their next set of expeditions.
+### Clues Found
+- A map of the network
+- References to a structure called the First Vault
+- A note naming the Twilight Crossroads and the Crimson Marshes as active toll points
 
 ## Boss: The Archive Warden
 
 ### Stat Block
+- [Corrupted Herald](../StatBlocks/06-Corrupted%20Herald.md)
 
-Use the file: "StatBlocks/Corrupted Herald.md"
+## End of Session Hook
 
-### Behavior
+The map reveals that the Ledger is not local. The party now knows there are multiple toll points and that the next stops are actively used.
 
-- Fights to keep the party from escaping with the portal route
-- Uses forced accounting to create disadvantage and object-based hazard effects
-
-## End of Session
-
-The party learns that the Ledger's structure is multi-planar and that the next missions will move beyond Alderwyn.
-
-## XP
-
-- 200 XP for the threshold and warden fight
+## Rewards
+- 200 XP
+- [Map of the Planar Network](../Clues%20and%20Handouts/05-Map%20of%20the%20Planar%20Network.md)

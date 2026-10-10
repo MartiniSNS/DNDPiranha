@@ -1,36 +1,42 @@
-# The Toll-Keeper's Descent: Campaign Arc Overview
+# Toll-Keeper's Descent: Act II Overview
 
-This folder continues the story from the previous arc, beginning with Session 12. The PCs have secured the Palantier, recovered the Bulwark Eternal, and claimed the Worldreaver. Now the story expands: the cult is not just a hidden brotherhood, but a vector for a far older and more terrifying force—the Ledger Absolute.
+This folder continues the story from the previous arc and begins with Session 12. The party has already secured the Palantier and reclaimed the first two artifacts. Now the campaign opens into a wider pattern: the cult is not just a faction in Alderwyn but a hidden mechanism running beneath the world's institutions.
 
-## Core Arc Summary
+## Act II Theme
 
-The party must expose the operation behind Blackford's toll system, recover crucial evidence, and confront the hidden master pulling the strings. The arc culminates in a multi-planar confrontation where the PCs understand that the artifacts are not just relics—they are keys to a much larger pattern of planar control.
+The Shadowed Branch has become a bureaucratic arm of a larger intelligence: the Ledger Absolute. What began as a cult plot has become a cosmic accounting system that records debts, secrets, and souls. The party's artifacts are not just magical trophies—they are keys in a larger ritual of custody and control.
 
-## Main Threads
+## Act II Structure
 
-- The cult has been moving artifacts through Blackford under an official paper trail.
-- The tollhouse is a front for ledger-based blackmail and secret transfer.
-- The Toll-Keeper is a medium for a more ancient intelligence called the Ledger Absolute.
-- The party is being watched, marked, and tested by entities that see their actions as debt records.
+- Sessions 12-15 focus on Blackford and the rise of the cult's administrative network
+- Sessions 16-18 push the party through the Sunspire Portal and the first signs of the Planar Network
+- Sessions 19-21 culminate in the City of Echoes and the First Vault confrontation
 
-## Artifact Progression
+## Arc Progression
 
-- Palantier – already in party hands
-- Bulwark Eternal – recovered at Sunspire Citadel
-- Worldreaver – seized from the Blackford convoy
-- Remaining artifacts are scattered across the Planar Network and will become future arc hooks.
+The party is actively moving toward the truth that:
+- the cult is functioning as an administrative force under the Ledger Absolute
+- the artifacts are keys to a much larger pattern of world-ordering magic
+- the final enemy is not the Toll-Keeper alone, but the system that uses him
 
-## Expected Tone
+## Session Index
 
-- investigative and dangerous
-- stealth, espionage, and political intrigue
-- escalating planar danger and cult pressure
-- high-value set pieces and identity tests
+- [Session 12: Return to Blackford](./Sessions/12-Session%2012%20-%20Return%20to%20Blackford.md)
+- [Session 13: Sunspire Citadel](./Sessions/13-Session%2013%20-%20Sunspire%20Citadel.md)
+- [Session 14: The Ravencreek Convoy](./Sessions/14-Session%2014%20-%20The%20Ravencreek%20Convoy.md)
+- [Session 15: The Blackford Tower](./Sessions/15-Session%2015%20-%20The%20Blackford%20Tower.md)
+- [Session 16: The Ledger's Herald](./Sessions/16-Session%2016%20-%20The%20Ledger's%20Herald.md)
+- [Session 17: The Sunspire Portal](./Sessions/17-Session%2017%20-%20The%20Sunspire%20Portal.md)
+- [Session 18: The Crossroads of Twilight](./Sessions/18-Session%2018%20-%20The%20Crossroads%20of%20Twilight.md)
+- [Session 19: The Crimson Marshes](./Sessions/19-Session%2019%20-%20The%20Crimson%20Marshes.md)
+- [Session 20: The City of Echoes](./Sessions/20-Session%2019%20-%20The%20City%20of%20Echoes.md)
+- [Session 21: The Ledger Absolute](./Sessions/21-Session%2021%20-%20The%20Ledger%20Absolute.md)
 
-## Structure
+## Related Files
 
-Session files begin at Session 12 and run through Session 21.
+- [Stat Blocks](./StatBlocks)
+- [Clues and Handouts](./Clues%20and%20Handouts)
 
-- Sessions 12-15: return to Blackford, recover the clues, seize the convoy, and confront the Toll-Keeper.
-- Sessions 16-18: uncover the Ledger Absolute's presence and break into the Sunspire Portal network.
-- Sessions 19-21: cross the planar threshold and face the truth of the Ledger's design.
+## GM Notes
+
+This act is intended to feel like the turn in a campaign where the party realizes the enemy is bigger than a single cult leader. The tone shifts from local conspiracy to cosmological dread, with the cult functioning as a local expression of a larger system of debts and records.

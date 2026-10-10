@@ -2,14 +2,10 @@
 
 > “Three keys are already counted. Four remain in the world beyond the veil. The Seventh Vault awaits the one who keeps the account. The Ledger watches.”
 
-This handout is discovered during the Sunspire Portal expedition or after defeating the Ledger Repeater. It is a direct reference to the broader campaign and the idea that the artifacts are only part of a larger pattern.
+This is discovered in the Sunspire Portal archive or during the final confrontation in the City of Echoes. It signals that the artifacts are only a part of a greater process.
 
-## What it implies
-
-- The party is now part of a larger, deliberate system.
-- The artifacts matter because they are key fragments in an expansive set.
-- The final conflict will likely move into new worlds and beyond the material plane.
+## Related Session
+- [Session 21: The Ledger Absolute](../Sessions/21-Session%2021%20-%20The%20Ledger%20Absolute.md)
 
 ## Use in play
-
-This is a final bridge between the current arc and the next one.
+This functions as a bridge between Act II and the next campaign arc.

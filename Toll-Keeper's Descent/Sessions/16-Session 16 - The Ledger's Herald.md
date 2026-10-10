@@ -2,60 +2,50 @@
 
 ## Overview
 
-The party receives a direct transmission and warning. Someone beyond the cult has noticed them and is preparing a response. The first true signal that the Ledger Absolute is listening is not a monster—it is a voice carrying the weight of an ancient bureaucracy.
+The party is no longer simply fighting the cult. It is now being watched by a higher intelligence, and that intelligence is speaking in the language of debt, record, and judgment.
+
+## Related Files
+
+- [Act II Overview](../00-Overview.md)
+- [Session 15: The Blackford Tower](./15-Session%2015%20-%20The%20Blackford%20Tower.md)
+- [Session 17: The Sunspire Portal](./17-Session%2017%20-%20The%20Sunspire%20Portal.md)
+- [Stat Block: Ledger Scribe](../StatBlocks/04-Ledger%20Scribe.md)
+- [Clue: The Ledger Absolute Warning](../Clues%20and%20Handouts/04-The%20Ledger%20Absolute%20Warning.md)
 
 ## Opening Scene
 
-The party is resting at a safehouse outside Blackford. At midnight, all pagers and candle flames in the building dim. A sheet of blank paper appears on the table. It begins to write itself.
+At a safehouse outside the city, all the candles dim at once. A blank page appears on a table and begins to write itself. The page is not magical as much as authoritative—an account book speaking in the voice of a higher power.
+
+## Objective
+
+Survive the psychic pressure of the Ledger's herald and decide whether to accept or reject the bargain.
 
 ## Encounter: The Page of Accounts
 
+### Boss
+- [Ledger Scribe](../StatBlocks/04-Ledger%20Scribe.md)
+
 ### Mechanics
+- Each PC must make a DC 15 Wisdom save at the start of the scene
+- A failed save triggers a brief vision of their debt, guilt, and failure
+- The Scribe offers a bargain to “record” the party rather than erase them
 
-- The paper hums with telepathic script.
-- Each PC must make a DC 15 Wisdom save or be compelled to read a line aloud.
-- A failed save gives the character a brief vision of their debts and failures.
+### Threats
+- telepathic accusation
+- psychic coercion
+- forced truth-telling
 
-### Threat
+## Clue Discovery
 
-The paper opens a connection to a being of accountancy and memory: the Transcendent Scribe.
+The Scribe reveals:
+- three keys are known to been counted
+- four remain in the wider Planar Network
+- the next route is through the Sunspire Portal
 
-### Boss Stat Block
+## Result
 
-Use the file: "StatBlocks/Ledger Scribe.md"
+The party realizes that the Ledger Absolute is not a god or a cult leader—it is an order, a cosmic system of records.
 
-### Roleplay
-
-The voice says:
-
-*“Your names are recorded. Your blood debts are noted. The Master keeps a tally of all who stand in the way.”*
-
-### Objective
-
-The party must survive the psychic onslaught long enough to reject the bargain offered by the Scribe.
-
-### Offer
-
-- Submit the artifacts to the Ledger
-- Allow the Master to establish a signed debt on each PC
-- Become a recorded servant rather than a resisted one
-
-### Consequences
-
-If the party accepts any part of the bargain, they each receive a visible ledger mark. This can be used as future leverage by the enemy.
-
-## Clue Recovery
-
-The party learns three important things:
-
-1. The Ledger Absolute is not simply a cult or god—it is a ruling order beyond the material world.
-2. Seven keys exist; only three are known to be in use.
-3. The Sunspire Portal is the nearest route to the next vault.
-
-## End of Session
-
-The party understands the election of their fate: deny the Ledger, or become part of its contract. This is the first direct moral choice of the arc.
-
-## XP
-
-- 175 XP for the psychic encounter and revelation
+## Rewards
+- 175 XP
+- Direct evidence that the cult is only a local manifestation of a much larger force

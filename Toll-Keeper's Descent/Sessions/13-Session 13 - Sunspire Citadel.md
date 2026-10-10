@@ -2,82 +2,66 @@
 
 ## Overview
 
-The party tracks the cult's route to Sunspire, a ruined citadel and sealed shrine that once served as an administrative warding temple. Now it is a center of ritual security for the cult's newfound power.
+The trail leads the party to an abandoned shrine and warded fortress called Sunspire, where the cult stores relics and seals around them with ritual law.
 
-## Story Setup
+## Related Files
 
-The Sunspire Citadel sits in the highland passes. It is protected by steep snow paths, carved stairways, ancient statues, and ritual seals. A cult courier has just passed the ridge; the party can intercept his route before he reaches the inner shrine.
+- [Act II Overview](../00-Overview.md)
+- [Session 12: Return to Blackford](./12-Session%2012%20-%20Return%20to%20Blackford.md)
+- [Session 14: The Ravencreek Convoy](./14-Session%2014%20-%20The%20Ravencreek%20Convoy.md)
+- [Clue: Sunspire Transfer Order](../Clues%20and%20Handouts/02-Sunspire%20Transfer%20Order.md)
+
+## Objective
+
+Intercept the cult courier before the Bulwark Eternal can be moved, or take the Bulwark by force if the cult is already in position.
 
 ## Encounter 1: The Highland Approach
 
 ### Threats
-
-- 3 Cult Hands with crossbows and glaives
-- 1 Whisperer Courier using illusion magic to misdirect patrols
+- 3 Cult Hands on the ridge
+- 1 Whisperer Courier using misdirection and bell-runes to signal danger
 
 ### Terrain
+- snowbound switchbacks
+- ruined stairways
+- narrow bridge over a ravine
 
-- icy stone paths
-- narrow switchbacks
-- broken stair sections
-- a narrow bridge over a ravine
-
-### Objective
-
-Reach the outer shrine gate before the cult courier enters.
-
-### Complications
-
-- The party can use direct force or stealth.
-- One PC may be seen by a sentry if they fail a Perception check.
-- A rogue or spellcaster can trigger a warding bell to create alarm pulses.
+### Tactical Notes
+Players can approach by stealth, deception, or direct assault. If they fail to keep the route quiet, the guard bell triggers the citadel alarm and the battle begins in the courtyard.
 
 ## Encounter 2: Hall of Mirrors
 
-A secondary chamber inside the citadel contains reflected illusions and bitter cold. The party must pass a mirrored hall without being separated from their own images.
+The party reaches the lower shrine, where reflective panels create false spatial boundaries.
 
 ### Mechanics
+- DC 15 Wisdom save or lose track of the correct path
+- DC 13 Arcana check to identify an illusion or magical reflection
 
-- DC 15 Wisdom save or become disoriented and lose the trail
-- Each complete failed save causes a brief hallucination and a minor disadvantage on the next attack or skill check
-- A detected illusion can be dispelled by a successful Arcana check DC 13
+### Clues Found
+- Transfer order naming the Bulwark Eternal
+- A route note with Blackford's seal and the phrase “next transfer, Ravencreek”
 
-### Reward
-
-- A copy of the cult's official transfer order
-- A route token for the Blackford convoy
-
-## Main Boss: The Seal Keeper Hierarch
-
-The party reaches the inner shrine and confronts a cult knight who protects the Bulwark Eternal.
+## Boss: The Seal Keeper Hierarch
 
 ### Stat Block
+- [Seal Keeper Hierarch](../StatBlocks/01-Seal%20Keeper%20Hierarch.md)
 
-Use the stat block in the folder: "StatBlocks/Seal Keeper Hierarch.md"
-
-### Tactics
-
-- He fights to keep the party from taking the shield, not to kill them.
-- He will attempt to redirect the PCs with ritual magic and stone guardians.
-- If bloodied, he offers a short surrender bargain: the party can leave with the shield if they promise to confront the Master.
+### Behavior
+The Hierarch is a disciplined fighter whose purpose is not to kill the PCs but to protect the relic. He uses ritual bursts, warding strikes, and a tactical retreat when bloodied.
 
 ## Artifact Recovery
 
-The party retrieves the Bulwark Eternal.
+The party recovers the Bulwark Eternal.
 
 ### Reward
+- The shield responds to the fighter's presence with a deep, comforting tone
+- The artifact hints at the presence of other relics and breaches in other regions
 
-- The shield is silent and warm in the hand.
-- The fighter experiences a brief, painful message from the shield: *“I remember the walls that held the dead.”*
+## End of Session Hook
 
-### Clue Found
+A surviving courier is captured and reveals the next destination of the Worldreaver: Ravencreek Canyon, under Blackford authority.
 
-- An asset ledger describing another artifact: *Worldreaver, being moved under Blackford oversight.*
-
-## End of Session
-
-The party makes a hasty retreat as the citadel bells sound. The route to Blackford is now open and the cult is alerted.
-
-## XP
-
-- 150 XP for the citadel approach and boss fight
+## Rewards
+- 150 XP
+- The Bulwark Eternal recovered
+- Leads to the Ravencreek convoy route

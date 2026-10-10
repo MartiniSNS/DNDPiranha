@@ -2,49 +2,46 @@
 
 ## Overview
 
-The City of Echoes is a half-remembered city suspended between the material world and the threshold of the First Vault. It is a place where every witness is also a record and every street repeats a memory.
+The City of Echoes is a drowned city of repetition and memory, hanging between a lost myth and the reality of the Planar Network. It is here that the party hears the voices of prior choices and reaches the threshold of the First Vault's outer chamber.
 
-## Setup
+## Related Files
 
-The party reaches the city by a superimposed portal. The city is both ruined and active; towers float in and out of the fog. The streets are lined with half-burned signs and ledger popups.
+- [Act II Overview](../00-Overview.md)
+- [Session 19: The Crimson Marshes](./19-Session%2019%20-%20The%20Crimson%20Marshes.md)
+- [Session 21: The Ledger Absolute](./21-Session%2021%20-%20The%20Ledger%20Absolute.md)
+- [Stat Block: Ledger Repeater](../StatBlocks/07-Ledger%20Repeater.md)
+
+## Objective
+
+Navigate the city of repeating memory, uncover the vault's location, and survive the archive's magic long enough to move toward the final confrontation.
 
 ## Encounter: The Echo Market
 
 ### Threats
-
 - 4 Cult Echoes
 - 2 Memory Wraiths
 - 1 Ledger Repeater
 
 ### Mechanics
-
-- Each action in the market may trigger a replay of a previous scene.
-- A failed Wisdom save causes a PC to relive a memory and take a momentary penalty to attack or concentration.
+- the city repeats earlier scenes and previous choices
+- a failed Wisdom save may cause the party to relive a failed moment or an emotional memory
 
 ## Boss: The Ledger Repeater
 
-This is a living archive entity with reflected intent. It speaks with the voices of the party's own past choices.
-
 ### Stat Block
+- [Ledger Repeater](../StatBlocks/07-Ledger%20Repeater.md)
 
-Use the file: "StatBlocks/Ledger Repeater.md"
+### Behavior
+The Repeater weaponizes memory and repetition, ensuring the party is forced to confront the consequences of their own past actions.
 
-### Objective
+## Clue Discovery
 
-Break the market's control and coordinate an escape route through the city vault.
+The party finds final intel on the First Vault's location and a declaration that the Ledger is not a person but a system of account, law, and debt.
 
-## Clues Found
+## End of Session Hook
 
-The party learns the location of the First Vault and also hears a hidden message from a previous incarnation of themselves in the archive.
+The party now knows where the final confrontation will occur and is forced to face a final moral choice before entering the vault.
 
-Important discovery:
-
-*The First Vault is not behind the cult. It is the origin of every ledger in the world, and the ledger is not an object but a system.*
-
-## End of Session
-
-The party escapes with the city map. They now know the final confrontation will not be a simple villain fight—it will be a systemic breach.
-
-## XP
-
-- 225 XP for the Echo Market and boss fight
+## Rewards
+- 225 XP
+- The vault route is clear

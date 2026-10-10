@@ -2,41 +2,38 @@
 
 ## Overview
 
-The party journeys to the Crossroads of Twilight, a place where the material world is thin and the dead roads between realms are still visible. There, they face a choice: seal the route or risk using it to gain new information.
+The party enters the crossing point between roads and worlds. Here, the functions of the Ledger's network become visible: not just doors, but routes of debt, memory, and fate.
 
-## Setup
+## Related Files
 
-The location is a ruined caravan stop in a field of ash and silver fog. Multiple roads intersect at impossible angles, and each path glows with a different color.
+- [Act II Overview](../00-Overview.md)
+- [Session 17: The Sunspire Portal](./17-Session%2017%20-%20The%20Sunspire%20Portal.md)
+- [Session 19: The Crimson Marshes](./19-Session%2019%20-%20The%20Crimson%20Marshes.md)
+- [Stat Block: Corrupted Herald](../StatBlocks/06-Corrupted%20Herald.md)
 
-## Encounter: The Broken Roads
+## Objective
+
+Seal or disrupt one of the routes in the twilight crossing before it becomes a permanent portal.
+
+## Encounter: Broken Roads
 
 ### Threats
-
-- 2 Shadow riders
-- 1 Twilight Warden (use the Corrupted Herald stat block adjusted)
-- environmental effects: path shifting and illusion misdirection
+- 2 Shadow Riders
+- 1 Twilight Warden
+- environmental shifting roads and false directions
 
 ### Mechanics
+- The terrain changes each round; some paths become safe, others run into psychic shock
+- The party can either seal the route or exploit it to reach a hidden ledgers trail
 
-- Each round, the battlefield shifts as one of the roads “opens” or “closes.”
-- Characters may need to move along a path to receive advantage or take damage.
+## Clue Discovery
 
-### Objective
+The party finds a record stating:
 
-Seal one of the six remaining route points to prevent cult or Ledger infiltration through the Twilight Reach.
+> “When three keys are accepted by the Ledger, the Seventh Vault opens.”
 
-## Clues
+This reveals the final purpose of the artifact collection.
 
-The party learns of the topography of the Planar Network and finds a direct mention of the First Vault.
-
-Important line:
-
-*“When three keys are accepted by the Ledger, the Seventh Vault opens. It is not a place but a debt system. It marks the world and records the weight of each soul.”*
-
-## End of Session
-
-The party gains a broader map of the network, but it also raises the stakes. They are now part of the Ledger's counts.
-
-## XP
-
-- 175 XP for the Twilight crossroads battle
+## Rewards
+- 175 XP
+- Deepened understanding of the Planar Network

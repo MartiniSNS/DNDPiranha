@@ -7,7 +7,6 @@
 **Speed:** 30 ft., fly 60 ft.
 
 ### Ability Scores
-
 - STR 16 (+3)
 - DEX 17 (+3)
 - CON 16 (+3)
@@ -16,45 +15,26 @@
 - CHA 18 (+4)
 
 ### Saving Throws
-
 - Dex +6
 - Wis +5
 - Cha +7
 
-### Skills
-
-- Perception +5
-- Intimidation +7
-
 ### Damage Resistances
-
 - Fire, poison
 
-### Senses
-
-- Passive Perception 15
-
-### Languages
-
-- Common, Infernal
-
 ### Challenge
-
 - 6 (2,300 XP)
 
 ## Actions
 
 ### Multiattack
-The Erinyes makes two attacks with its longsword or two with its chain and hook.
+The Erinyes makes two attacks with its longsword or chain and hook.
 
 ### Longsword
 Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 9 (1d8 + 5) slashing damage plus 7 (2d6) fire damage.
 
 ### Chain and Hook
-Ranged Weapon Attack: +6 to hit, range 30 ft., one target. Hit: 10 (1d10 + 5) piercing damage and the target is pulled 10 feet toward the Erinyes if it fails a DC 15 Str save.
+Ranged Weapon Attack: +6 to hit, range 30 ft., one target. Hit: 10 (1d10 + 5) piercing damage and the target is pulled 10 feet if it fails a DC 15 Str save.
 
-### Fiendish Threat (Recharge 5–6)
-The Erinyes speaks the target's worst fear. The target must succeed on a DC 15 Wisdom save or take 14 (4d6) psychic damage and become frightened until the end of its next turn.
-
-### Wingbeat
-The Erinyes flaps its wings in a 15-foot radius. Creatures there must succeed on a DC 15 Strength save or be knocked prone.
+### Fiendish Threat (Recharge 5-6)
+One creature within 30 feet must make a DC 15 Wisdom save or take 14 (4d6) psychic damage and become frightened until the end of its next turn.

@@ -2,58 +2,58 @@
 
 ## Overview
 
-The party marches back toward Blackford with one major objective: reclaim the next thread of evidence and stop the cult from consolidating power. The city is quieter than expected—but that silence is worse. Every door, every ledger, every tollgate now feels watched.
+The party returns to Blackford with a trail of evidence, a growing list of enemies, and the need to move fast before the cult stabilizes its route and seals the ledger archive.
+
+## Related Files
+
+- [Act II Overview](../00-Overview.md)
+- [Session 13: Sunspire Citadel](./13-Session%2013%20-%20Sunspire%20Citadel.md)
+- [Clue: Ledger Fragment from the Blackford Archive](../Clues%20and%20Handouts/01-Ledger%20Fragment%20from%20the%20Blackford%20Archive.md)
 
 ## Opening Scene
 
-The party arrives at the edge of Blackford in the late afternoon. Smoke curls from a chimney on the edge of town. A chain of black banners hangs from the tollhouse roof, marking the city as under official seal.
+The party reaches Blackford from the north on the old caravan road. The city gates are open but heavily watched. The tollhouse is quiet, too quiet—a sign the cult has shifted into administrative lockstep.
 
-A weary checkpoint guard stops them before they can enter the gates.
+## Objective
 
-- If they present a convincing article or identity: the guard checks a wax-sealed list and lets them pass.
-- If they bluff badly: the guard calls for watch support and a patrol is sent to escort them.
-- If they rely on subtlety: they can bypass the front gate and enter through the old road beneath the bridge.
+Reach the flooded archive beneath the black tower and extract the ledger records showing who is moving the artifacts and where they are being sent next.
 
 ## Encounter: The Quiet Gate
 
-This scene is intended to establish the city's paranoia.
-
-### Threat
-
-- 2 Cult Hands under the guise of toll officers
-- 1 Initiate acting as a clerk with a sealed ledger book
+### Threats
+- 2 Cult Hands masquerading as toll guards
+- 1 Initiate acting as a clerk with a locked manifest book
 
 ### Objective
+The party must pass the gate without triggering a town-wide alert.
 
-The party must reach the old receiver archive beneath the tollhouse, where damaged shipment manifests reveal the cult's routing plans.
+### Possible Tactics
+- Bluff their way in using forged papers or cult-sourced credentials
+- Sneak through the under-bridge service access
+- Fight and force their way in while the watch screams in confusion
 
-### Complications
+### Clue Rewards
+- Manifest page using the Branch symbol and the phrase “Master receives the key”
+- Route to the lower archive beneath the black tower
 
-- The guard house is trapped with a false alarm rune that summons 1d4 spectral notes (minor psychic noise)
-- The archive entrance is hidden underneath a weight room behind the tollhouse
-- A failed Investigation check reveals a false ledger path planted to lure intruders into a dead end
+## Encounter: The Lower Archive
+
+The archive is damp and full of long-sealed ledgers. Hidden among the legal files are transaction records that reveal the cult is shipping relics under cover of legal custody.
 
 ### Clues Found
+- The ledger fragment tied to the Blackford archives
+- A directive referencing Sunspire as the next transfer point
+- A shorthand phrase: “The Ledger records all debt. The Master settles the balance.”
 
-- A manifest stamped with a twisted branch seal
-- A note reading: “The Ledger sees all debts. All tolls are recorded to the Blackford Archive.”
-- An address: “Sunspire Ledger Vault, sealed under the Master’s doctrine”
+## Outcome
 
-## Major Development
+The party learns the next artifact route is through Sunspire, and that the cult is moving deliberately to consolidate its hold over the artifacts and the city.
 
-The PCs learn that the cult is now moving goods not just to Greenhollow but to a more secure location: Sunspire. A false ledger trail leads them to a hidden route into the lower archives.
+## End of Session Hook
+
+At the back of the archive is a sealed transfer order with a route marked to Sunspire. The writing is calm, formal, and terrifying.
 
 ## Rewards
-
-- 100 XP for the encounter
-- Access to a hidden archive route
-
-## Next Hook
-
-Inside the archive is one final ledger page giving a route for a cult convoy carrying the Worldreaver through Ravencreek Canyon.
-
-## Roleplay Beat
-
-A clerk who has seen too much mutters:
-
-*“They stopped talking in people’s names and started referring to their debts. That’s when I knew the Master had already begun to listen.”*
+- 100 XP
+- Access to the lower archive route
+- 1 major clue toward the Sunspire Citadel objective
