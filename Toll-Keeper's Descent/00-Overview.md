@@ -29,7 +29,7 @@ The party is actively moving toward the truth that:
 - [Session 17: The Sunspire Portal](./Sessions/17-Session%2017%20-%20The%20Sunspire%20Portal.md)
 - [Session 18: The Crossroads of Twilight](./Sessions/18-Session%2018%20-%20The%20Crossroads%20of%20Twilight.md)
 - [Session 19: The Crimson Marshes](./Sessions/19-Session%2019%20-%20The%20Crimson%20Marshes.md)
-- [Session 20: The City of Echoes](./Sessions/20-Session%2019%20-%20The%20City%20of%20Echoes.md)
+- [Session 20: The City of Echoes](./Sessions/20-Session%2020%20-%20The%20City%20of%20Echoes.md)
 - [Session 21: The Ledger Absolute](./Sessions/21-Session%2021%20-%20The%20Ledger%20Absolute.md)
 
 ## Related Files
